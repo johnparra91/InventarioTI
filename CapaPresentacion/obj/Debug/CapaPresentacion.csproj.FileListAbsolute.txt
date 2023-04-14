@@ -1,0 +1,58 @@
+D:\CODE\Tools\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Inventario TI Cerasus.exe.config
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Inventario TI Cerasus.exe.manifest
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Inventario TI Cerasus.application
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Inventario TI Cerasus.exe
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Inventario TI Cerasus.pdb
+D:\CODE\Tools\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\EntityFramework.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\FilterDataGrid.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\PdfSharp.Charting.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\PdfSharp.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\CODE\Tools\CapaPresentacion\bin\Debug\EntityFramework.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.pdb
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+D:\CODE\Tools\CapaPresentacion\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\PdfSharp.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\PdfSharp.Charting.xml
+D:\CODE\Tools\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\CODE\Tools\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\de\PdfSharp.resources.dll
+D:\CODE\Tools\CapaPresentacion\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.CaracteristicasPCForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.IndexForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.InventoryAssignmentForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.InventoryTICForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.InventoryUserForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.LoginForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.SignatureForm.resources
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\CODE\Tools\CapaPresentacion\obj\Debug\Inventario TI Cerasus.exe.manifest
+D:\CODE\Tools\CapaPresentacion\obj\Debug\Inventario TI Cerasus.application
+D:\CODE\Tools\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\CODE\Tools\CapaPresentacion\obj\Debug\Inventario TI Cerasus.exe
+D:\CODE\Tools\CapaPresentacion\obj\Debug\Inventario TI Cerasus.pdb
