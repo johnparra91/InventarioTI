@@ -1,0 +1,9 @@
+D:\CODE\Tools\CapaNegocio\bin\Release\CapaNegocio.dll
+D:\CODE\Tools\CapaNegocio\bin\Release\CapaNegocio.pdb
+D:\CODE\Tools\CapaNegocio\bin\Release\CapaDatos.dll
+D:\CODE\Tools\CapaNegocio\bin\Release\CapaDatos.pdb
+D:\CODE\Tools\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+D:\CODE\Tools\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\CODE\Tools\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+D:\CODE\Tools\CapaNegocio\obj\Release\CapaNegocio.dll
+D:\CODE\Tools\CapaNegocio\obj\Release\CapaNegocio.pdb
